@@ -20,6 +20,17 @@
   所有計算結果皆自動加上千分位逗號，並精確四捨五入至小數點後兩位 (NT$)，符合真實金融情境。同時將結果輸出區的文字框設定為 `ReadOnly`，防止使用者誤改計算結果；並於版面標註計算基準，讓整體介面更直觀專業。
   
 ## 執行畫面
+
+* **排版畫面以及預設輸入:**
 <img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/994d1312-e2d7-4a6f-b255-e6a47c66ef50" />
 
+* **輸入防呆機制:**
+<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/eaf2f48f-3631-44a2-941f-88a14427987d" />
+
+
+* **自備款輸入模式的單位自動變更:**
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/d7ab9cb6-f761-4895-8315-63b15ee07884" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/f7166d06-4321-4aad-bf63-f974322a1cce" />
+
+* **結果輸出:**
 <img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/a48b3079-1866-4491-bc3c-b0c17930e766" />
