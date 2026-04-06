@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 個人房貸試算器 
+namespace 個人房貸試算器  
 {
     public partial class Form1 : Form
     {
